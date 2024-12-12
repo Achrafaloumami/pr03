@@ -1,0 +1,8 @@
+project Codage_Huffman is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("teeest.adb", "exemple_es.adb", "exemple_es.adb", "exemple_octet.adb", "compresser.adb");
+
+end Codage_Huffman;
+

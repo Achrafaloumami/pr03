@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__teeest.o
+[PROJECT FILES]
+/home/aai6482/re-faire/PR_3/Codage_Huffman.gpr
+20241212095653 d79aa445c1a606f3255fd7d8cbcbda48
+[BOUND OBJECT FILES]
+/home/aai6482/re-faire/PR_3/obj/teeest.o
+[GENERATED SOURCE FILES]
+b__teeest.ads
+b__teeest.adb
+b__teeest.ali
+[RESULTING OPTIONS]
+-L/home/aai6482/re-faire/PR_3/obj/
+-L/home/aai6482/re-faire/PR_3/obj/
+-L/mnt/n7fs/ens/tp_cregut/GNAT/2021/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/
+-static
+-static-libgcc
+/mnt/n7fs/ens/tp_cregut/GNAT/2021/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnat.a
+-ldl

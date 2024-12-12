@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 9" line=" 5" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/lca.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 5" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/compresser.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/compresser.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 46" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/module.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/test_lca.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 134" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/test_lca.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/lca_sujet.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/compresser.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/lca.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/default.gpr</vfs_project>
+      <vfs_file>/home/ozi0057/Annee_1/Prog_Imperative/tp/PR_3/src/lca.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

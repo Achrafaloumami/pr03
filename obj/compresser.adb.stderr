@@ -1,0 +1,6 @@
+compresser.adb:21:16: error: "T_LCA" is not visible
+compresser.adb:21:16: error: non-visible declaration at lca.ads:9, instance at module.ads:11
+compresser.adb:58:05: error: missing argument for parameter "tab_Huff" in call to "Tableau_Huff" declared at module.ads:22
+compresser.adb:59:38: error: missing ")"
+module.ads:19:30: error: expected private type "T_LCA" defined at lca.ads:9, instance at line 11
+module.ads:19:30: error: found private type "T_Arbre_Huffman" defined at line 15

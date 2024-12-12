@@ -1,0 +1,14 @@
+afficher_arbre_huffman.adb:3:44: error: "T_Arbre_Huffman" is undefined
+afficher_arbre_huffman.adb:14:05: error: no candidate interpretations match the actuals:
+afficher_arbre_huffman.adb:14:05: error: too many arguments in call to "Put"
+afficher_arbre_huffman.adb:14:09: error: "Frequence" is undefined
+afficher_arbre_huffman.adb:14:27: error: expected type "Standard.String"
+afficher_arbre_huffman.adb:14:27: error: found type universal integer
+afficher_arbre_huffman.adb:14:27: error:   ==> in call to "Put" at a-textio.ads:457
+afficher_arbre_huffman.adb:14:27: error:   ==> in call to "Put" at a-textio.ads:384
+afficher_arbre_huffman.adb:18:07: error: "Est_feuille" is undefined
+afficher_arbre_huffman.adb:19:23: error: "To_String" is undefined
+afficher_arbre_huffman.adb:19:33: error: "Symbole" is undefined
+afficher_arbre_huffman.adb:22:17: error: "Arbre_Gauche" is undefined (more references follow)
+afficher_arbre_huffman.adb:33:17: error: "Arbre_Droite" is undefined
+afficher_arbre_huffman.adb:41:13: error: "Affiche_Arbre" is undefined
