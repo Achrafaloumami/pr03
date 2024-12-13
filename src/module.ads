@@ -12,25 +12,31 @@ package Module is
             new LCA(T_Cle => T_Octet, T_Valeur => Integer );
     use LCA_Un_Str_Int;
     
+    package LCA_int_feuille is
+            new LCA (T_Cle => T_Arbre_Huffman, T_Valeur => Integer );
+   use LCA_int_feuille;
+    
     type T_Arbre_Huffman is private;
       
     -- Initialiser l'arbre de Huffman
     procedure initialiser(Arbre: out T_Arbre_Huffman) with
-            Post => Est_Vide(Arbre);
-    
+            Post => Est_Vide(Arbre); 
     
     --renvoyer le tableau de freqence
     procedure Tableau_Freq(Tab_freq : in out T_LCA; Tab : in T_tab_Octet);
-    
+
+    -- renvoyer le tableau de Huffman
+    procedure Tableau_Huff(Tab_freq : in T_LCA; Arbre : in T_Arbre_Huffman; Tab_Huff : in out T_LCA);
+
+    --renvoyer un tableau qui contient les feuilles de l'arbre
+    procedure Construire_tab_feuille(Table_freq :in LCA_Un_Str_Int.T_LCA, Table_feuille : in out LCA_int_feuille.T_LCA);
     
     -- Construire l'arbre de Huffman
     procedure Construire_arbre (Arbre: in out T_Arbre_Huffman; Table : in T_LCA);
     
-    
-    
-    -- renvoyer le tableau de Huffman
-    procedure Tableau_Huff(Tab_freq : in T_LCA; Arbre : in T_Arbre_Huffman; Tab_Huff : in out T_LCA);
-    
+   
+   
+   
     --renvoyer la structure de l'arbre de Huffman
     function Code_arbre(Arbre : in T_Arbre_Huffman) return Integer;
     

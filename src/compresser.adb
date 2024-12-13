@@ -21,7 +21,7 @@ procedure Compresser is
     tab_Huff : T_LCA;
     Code : Integer;
     tab_freq : T_LCA;
-
+   tab_feuille : T_LCA;
 
 
 begin
@@ -58,6 +58,8 @@ begin
     initialiser(tab_Huff);
     Tableau_Freq(tab, tab_freq);
     Tableau_Huff(Tab_freq, tab_Huff);
+    initialiser(tab_feuille);
+    Construire_tab_feuille(Table_freq , tab_feuille)
     Construire_arbre(Arbre, Tab_Huff);
 
 
